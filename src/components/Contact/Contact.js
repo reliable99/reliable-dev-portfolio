@@ -28,7 +28,7 @@ const Contact = () => {
           <img src={Facebook} alt="facebook" className="clientImg" />
         </div>
       </div>
-      <div className="contact">
+      <div id="contact">
         <h1 className="contactPageTitle">Contact Me</h1>
         <span className="ContactDesc">Please fill out the form below to discuss any work opprtunities.</span>
         <form className="contactForm">

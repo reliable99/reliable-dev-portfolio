@@ -23,6 +23,8 @@
 
 }
 
+
+
 .desktopMenuListItem{
     margin: 1rem;
     cursor: pointer;
@@ -42,4 +44,10 @@
     padding: 0.9rem;
     border-radius: 2rem;
     
+}
+
+.active{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
 }
